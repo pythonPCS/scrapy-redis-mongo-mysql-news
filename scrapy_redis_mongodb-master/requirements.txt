@@ -13,7 +13,7 @@ backports-abc==0.5
 backports.shutil-get-terminal-size==1.0.0
 beautifulsoup4==4.6.0
 billiard==3.3.0.23
-bleach==2.0.0
+bleach==3.1.4
 blinker==1.4
 BloomFilter==0.1.0
 boto==2.48.0
