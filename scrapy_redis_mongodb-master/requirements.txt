@@ -127,7 +127,7 @@ pycodestyle==2.3.1
 pycparser==2.18
 pycurl==7.43.0
 PyDispatcher==2.0.5
-Pygments==2.2.0
+Pygments==2.7.4
 PyJWT==1.5.2
 pykafka==2.6.0
 pymongo==3.4.0
