@@ -202,7 +202,7 @@ typing==3.6.1
 tzlocal==1.4
 u-msgpack-python==2.4.1
 umalqurra==0.2
-urllib3==1.21.1
+urllib3==1.26.5
 utils==0.9.0
 vine==1.1.3
 virtualenv==15.1.0
