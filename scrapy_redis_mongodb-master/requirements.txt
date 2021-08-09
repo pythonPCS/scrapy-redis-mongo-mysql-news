@@ -150,7 +150,7 @@ python-memcached==1.58
 python-openid==2.2.5
 python-recsys==0.2
 pytz==2017.2
-pywin32==221
+pywin32==301
 queuelib==1.4.2
 raven==6.1.0
 readability-lxml==0.6.2
