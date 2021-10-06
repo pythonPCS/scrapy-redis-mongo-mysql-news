@@ -176,7 +176,7 @@ scrapy-crawlera==1.2.2
 scrapy-proxies==0.3
 scrapy-random-useragent==0.2
 scrapy-redis==0.6.8
-scrapy-splash==0.7.2
+scrapy-splash==0.8.0
 scrapyd==1.2.0
 scrapyd-client==1.1.0
 scrapyjs==0.2
