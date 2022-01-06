@@ -18,7 +18,7 @@ blinker==1.4
 BloomFilter==0.1.0
 boto==2.48.0
 bz2file==0.98
-celery==3.1.25
+celery==5.2.2
 celery-with-redis==3.0
 certifi==2017.4.17
 cffi==1.10.0
