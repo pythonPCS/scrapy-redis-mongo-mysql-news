@@ -197,7 +197,7 @@ tblib==1.3.2
 tornado==4.5.1
 tqdm==4.11.2
 traitlets==4.3.2
-Twisted==17.5.0
+Twisted==22.10.0
 typing==3.6.1
 tzlocal==1.4
 u-msgpack-python==2.4.1
